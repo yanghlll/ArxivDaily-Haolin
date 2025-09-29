@@ -1,0 +1,48 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  label:
+    types:
+      - created # for test
+  schedule:
+      - cron: '00 2 * * *' # 08:30 Beijing time every day
+
+permissions:
+  contents: write
+  issues: write 
+
+jobs:
+  update_daily_papers:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Update papers
+      run: |
+        python main.py
+
+    - name: Commit and push changes
+      uses: github-actions-x/commit@v2.9
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'main'
+        commit-message: '✏️ Update papers automatically.'
+        force-add: 'true'
+        files: README.md .github/ISSUE_TEMPLATE.md
+        name: yanghlll
+        email: 2448443600@qq.com
+
+    - name: Create an issue to notify
+      uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

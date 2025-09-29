@@ -1,8 +1,0 @@
-name: Update
-on:
-workflow_dispatch:#<-- 添加这一行
-label:
-types:
-- created # for test
-schedule:
-cron:'30 16**0-4'#00:30 Beijing time every Monday to Friday
