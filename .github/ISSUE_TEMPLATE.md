@@ -27,6 +27,20 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search](http://arxiv.org/abs/2509.22643v1)** | 2025-09-26 | 9 pages |
+| **[WoW: Towards a World omniscient World model Through Embodied Interaction](http://arxiv.org/abs/2509.22642v1)** | 2025-09-26 |  |
+| **[Context and Diversity Matter: The Emergence of In-Context Learning in World Models](http://arxiv.org/abs/2509.22353v1)** | 2025-09-26 |  |
+| **[Surgical Vision World Model](http://arxiv.org/abs/2503.02904v2)** | 2025-09-26 | <details><summary>This ...</summary><p>This paper has been accepted at the Data Engineering in Medical Imaging Workshop, MICCAI 2025</p></details> |
+| **[Scalable In-Context Q-Learning](http://arxiv.org/abs/2506.01299v2)** | 2025-09-26 |  |
+| **[Empowering Multi-Robot Cooperation via Sequential World Models](http://arxiv.org/abs/2509.13095v2)** | 2025-09-26 |  |
+| **[MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation](http://arxiv.org/abs/2509.21797v1)** | 2025-09-26 | 11 pages, 4 figures |
+| **[LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE](http://arxiv.org/abs/2509.21790v1)** | 2025-09-26 | 13 pages, 8 figures |
+| **[Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling](http://arxiv.org/abs/2508.16876v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
+| **[VDFD: Multi-Agent Value Decomposition Framework with Disentangled World Model](http://arxiv.org/abs/2309.04615v2)** | 2025-09-25 | 43 pages |
+| **[FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction](http://arxiv.org/abs/2509.21657v1)** | 2025-09-25 |  |
+| **[What Happens Next? Anticipating Future Motion by Generating Point Trajectories](http://arxiv.org/abs/2509.21592v1)** | 2025-09-25 |  |
+| **[X-Streamer: Unified Human World Modeling with Audiovisual Interaction](http://arxiv.org/abs/2509.21574v1)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page at https://byteaigc.github.io/X-Streamer</p></details> |
+| **[ReSpace: Text-Driven 3D Indoor Scene Synthesis and Editing with Preference Alignment](http://arxiv.org/abs/2506.02459v3)** | 2025-09-25 | <details><summary>22 pa...</summary><p>22 pages, 17 figures (incl. appendix)</p></details> |
+| **[From Next Token Prediction to (STRIPS) World Models -- Preliminary Results](http://arxiv.org/abs/2509.13389v2)** | 2025-09-25 | 10 pages, 3 figures |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
