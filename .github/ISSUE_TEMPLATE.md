@@ -42,60 +42,60 @@ labels: documentation
 | **[ReSpace: Text-Driven 3D Indoor Scene Synthesis and Editing with Preference Alignment](http://arxiv.org/abs/2506.02459v3)** | 2025-09-25 | <details><summary>22 pa...</summary><p>22 pages, 17 figures (incl. appendix)</p></details> |
 | **[From Next Token Prediction to (STRIPS) World Models -- Preliminary Results](http://arxiv.org/abs/2509.13389v2)** | 2025-09-25 | 10 pages, 3 figures |
 
-## Medical Model
+## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](http://arxiv.org/abs/2509.22646v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://deeptracereward.github.io/</p></details> |
+| **[UniMIC: Token-Based Multimodal Interactive Coding for Human-AI Collaboration](http://arxiv.org/abs/2509.22570v1)** | 2025-09-26 |  |
+| **[Longitudinal and Multimodal Recording System to Capture Real-World Patient-Clinician Conversations for AI and Encounter Research: Protocol](http://arxiv.org/abs/2509.16378v2)** | 2025-09-26 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 2 tables</p></details> |
+| **[Multimodal Recurrent Ensembles for Predicting Brain Responses to Naturalistic Movies (Algonauts 2025)](http://arxiv.org/abs/2507.17897v3)** | 2025-09-26 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 1 table. Invited report, CCN 2025 Algonauts Project session (3rd-place team). Code: https://github.com/erensemih/Algonauts2025_ModalityRNN v3: Added equal contribution footnote to author list</p></details> |
+| **[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](http://arxiv.org/abs/2509.22468v1)** | 2025-09-26 |  |
+| **[GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation](http://arxiv.org/abs/2509.22460v1)** | 2025-09-26 |  |
+| **[MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models](http://arxiv.org/abs/2506.17046v2)** | 2025-09-26 |  |
+| **[Explaining multimodal LLMs via intra-modal token interactions](http://arxiv.org/abs/2509.22415v1)** | 2025-09-26 |  |
+| **[Effectiveness of Large Multimodal Models in Detecting Disinformation: Experimental Results](http://arxiv.org/abs/2509.22377v1)** | 2025-09-26 | 9 pages |
+| **[MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents](http://arxiv.org/abs/2508.21475v2)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://mmsearch-plus.github.io</p></details> |
+| **[SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](http://arxiv.org/abs/2504.04893v6)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop EVAL-FoMo-2</p></details> |
+| **[StreetReaderAI: Making Street View Accessible Using Context-Aware Multimodal AI](http://arxiv.org/abs/2508.08524v4)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to UIST'25; v2. Fixed a missing word in the PDF; v3. Fixed a typo in an author's name; v4. Changed system name and title</p></details> |
+| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.22295v1)** | 2025-09-26 |  |
+| **[Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](http://arxiv.org/abs/2412.05271v5)** | 2025-09-26 | Technical Report |
 | **[InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning](http://arxiv.org/abs/2509.22261v1)** | 2025-09-26 |  |
-| **[Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning](http://arxiv.org/abs/2509.19090v2)** | 2025-09-24 |  |
-| **[Advances in Large Language Models for Medicine](http://arxiv.org/abs/2509.18690v1)** | 2025-09-23 | <details><summary>Prepr...</summary><p>Preprint. 5 figures, 4 tables</p></details> |
-| **[MRN: Harnessing 2D Vision Foundation Models for Diagnosing Parkinson's Disease with Limited 3D MR Data](http://arxiv.org/abs/2509.17566v1)** | 2025-09-22 | <details><summary>First...</summary><p>First-place solution of the classification track for MICCAI'2025 PDCADxFoundation Challenge</p></details> |
-| **[A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare](http://arxiv.org/abs/2502.15871v2)** | 2025-09-17 |  |
-| **[Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy](http://arxiv.org/abs/2509.13234v1)** | 2025-09-16 |  |
-| **[MedS$^3$: Towards Medical Slow Thinking with Self-Evolved Soft Dual-sided Process Supervision](http://arxiv.org/abs/2501.12051v3)** | 2025-09-10 | 20 pages; |
-| **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
-| **[Psychiatry-Bench: A Multi-Task Benchmark for LLMs in Psychiatry](http://arxiv.org/abs/2509.09711v1)** | 2025-09-07 |  |
-| **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
-| **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
-| **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
-| **[On the Risk of Misleading Reports: Diagnosing Textual Biases in Multimodal Clinical AI](http://arxiv.org/abs/2508.00171v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025 1st Workshop on Multimodal Large Language Models (MLLMs) in Clinical Practice</p></details> |
-| **[Accessibility Literacy: Increasing accessibility awareness among young content creators](http://arxiv.org/abs/2508.06512v1)** | 2025-07-29 | <details><summary>Maste...</summary><p>Master thesis: MASTER OF ARTS IN ACCESSIBILITY TO MEDIA, ARTS AND CULTURE</p></details> |
-| **[Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift](http://arxiv.org/abs/2507.09222v2)** | 2025-07-20 |  |
 
-## Medical LLM
+## Multimodal LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models](http://arxiv.org/abs/2506.00209v2)** | 2025-09-26 |  |
-| **[Advances in Large Language Models for Medicine](http://arxiv.org/abs/2509.18690v1)** | 2025-09-23 | <details><summary>Prepr...</summary><p>Preprint. 5 figures, 4 tables</p></details> |
-| **[Filling in the Clinical Gaps in Benchmark: Case for HealthBench for the Japanese medical system](http://arxiv.org/abs/2509.17444v1)** | 2025-09-22 | draft v0.1 |
-| **[SparseDoctor: Towards Efficient Chat Doctor with Mixture of Experts Enhanced Large Language Models](http://arxiv.org/abs/2509.14269v2)** | 2025-09-22 |  |
-| **[MMORE: Massive Multimodal Open RAG & Extraction](http://arxiv.org/abs/2509.11937v1)** | 2025-09-15 | <details><summary>This ...</summary><p>This paper was originally submitted to the CODEML workshop for ICML 2025. 9 pages (including references and appendices)</p></details> |
-| **[PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams -- Dataset Construction and Evaluation](http://arxiv.org/abs/2509.11517v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://github.com/rodrigo-carrillo/PeruMedQA</p></details> |
-| **[A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP](http://arxiv.org/abs/2505.16661v2)** | 2025-09-09 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 5 figures</p></details> |
-| **[Baichuan-M2: Scaling Medical Capability with Large Verifier System](http://arxiv.org/abs/2509.02208v1)** | 2025-09-02 | <details><summary>Baich...</summary><p>Baichuan-M2 Technical Report</p></details> |
-| **[DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment](http://arxiv.org/abs/2509.01354v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
-| **[RPRO:Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning](http://arxiv.org/abs/2509.00974v1)** | 2025-08-31 |  |
-| **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
-| **[DentalBench: Benchmarking and Advancing LLMs Capability for Bilingual Dentistry Understanding](http://arxiv.org/abs/2508.20416v1)** | 2025-08-28 |  |
-| **[Reasoning LLMs in the Medical Domain: A Literature Survey](http://arxiv.org/abs/2508.19097v1)** | 2025-08-26 |  |
-| **[MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine](http://arxiv.org/abs/2508.16213v1)** | 2025-08-22 | 9 pages |
-| **[A Comparative Study of Decoding Strategies in Medical Text Generation](http://arxiv.org/abs/2508.13580v1)** | 2025-08-19 |  |
+| **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](http://arxiv.org/abs/2509.22646v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://deeptracereward.github.io/</p></details> |
+| **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v3)** | 2025-09-26 |  |
+| **[Explaining multimodal LLMs via intra-modal token interactions](http://arxiv.org/abs/2509.22415v1)** | 2025-09-26 |  |
+| **[EmoPrefer: Can Large Language Models Understand Human Emotion Preferences?](http://arxiv.org/abs/2507.04278v4)** | 2025-09-26 |  |
+| **[WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM](http://arxiv.org/abs/2509.21990v1)** | 2025-09-26 |  |
+| **[SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](http://arxiv.org/abs/2508.01188v4)** | 2025-09-26 |  |
+| **["She was useful, but a bit too optimistic": Augmenting Design with Interactive Virtual Personas](http://arxiv.org/abs/2508.19463v2)** | 2025-09-26 | <details><summary>The v...</summary><p>The version accepted for publication at International Journal of Human-Computer Studies</p></details> |
+| **[VideoJudge: Bootstrapping Enables Scalable Supervision of MLLM-as-a-Judge for Video Understanding](http://arxiv.org/abs/2509.21451v1)** | 2025-09-25 | Work in progress |
+| **[Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks](http://arxiv.org/abs/2509.21259v1)** | 2025-09-25 | 17 pages, 12 figures |
+| **[MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios](http://arxiv.org/abs/2505.21333v2)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation](http://arxiv.org/abs/2407.15141v2)** | 2025-09-25 |  |
+| **[Embodied AI: From LLMs to World Models](http://arxiv.org/abs/2509.20021v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by IEEE CASM</p></details> |
+| **[MMSE-Calibrated Few-Shot Prompting for Alzheimer's Detection](http://arxiv.org/abs/2509.19926v1)** | 2025-09-24 |  |
+| **[Adaptive Guidance Semantically Enhanced via Multimodal LLM for Edge-Cloud Object Detection](http://arxiv.org/abs/2509.19875v1)** | 2025-09-24 |  |
+| **[Large Language Models for Pedestrian Safety: An Application to Predicting Driver Yielding Behavior at Unsignalized Intersections](http://arxiv.org/abs/2509.19657v1)** | 2025-09-24 |  |
 
-## Memory
+## Video Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation](http://arxiv.org/abs/2509.22548v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project page: https://miv-xjtu.github.io/JanusVLN.github.io/</p></details> |
-| **[Secure IVSHMEM: End-to-End Shared-Memory Protocol with Hypervisor-CA Handshake and In-Kernel Access Control](http://arxiv.org/abs/2505.19004v2)** | 2025-09-26 | 8 pages, 7 figures |
-| **[Distributed Associative Memory via Online Convex Optimization](http://arxiv.org/abs/2509.22321v1)** | 2025-09-26 |  |
-| **[PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning](http://arxiv.org/abs/2509.22315v1)** | 2025-09-26 | 8 pages |
-| **[Cross-Linguistic Analysis of Memory Load in Sentence Comprehension: Linear Distance and Structural Density](http://arxiv.org/abs/2509.20916v2)** | 2025-09-26 | <details><summary>7 pag...</summary><p>7 pages, 4 figures (Figure 2 has 3 sub-divisions)</p></details> |
-| **[mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies](http://arxiv.org/abs/2509.20297v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025 Workshop RemembeRL</p></details> |
-| **[SEDM: Scalable Self-Evolving Distributed Memory for Agents](http://arxiv.org/abs/2509.09498v3)** | 2025-09-26 |  |
-| **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](http://arxiv.org/abs/2505.14679v2)** | 2025-09-26 |  |
-| **[MLP Memory: A Retriever-Pretrained Memory for Large Language Models](http://arxiv.org/abs/2508.01832v2)** | 2025-09-26 |  |
-| **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v2)** | 2025-09-26 | <details><summary>Y. Hu...</summary><p>Y. Hu and Y. Wang contribute equally</p></details> |
-| **[DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation](http://arxiv.org/abs/2505.21969v4)** | 2025-09-25 |  |
-| **[SGMem: Sentence Graph Memory for Long-Term Conversational Agents](http://arxiv.org/abs/2509.21212v1)** | 2025-09-25 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 1 table</p></details> |
-| **[From GPUs to RRAMs: Distributed In-Memory Primal-Dual Hybrid Gradient Method for Solving Large-Scale Linear Optimization Problem](http://arxiv.org/abs/2509.21137v1)** | 2025-09-25 | <details><summary>Main ...</summary><p>Main Article (12 Pages, 3 Figures), Appendix (4 Pages)</p></details> |
-| **[Adapt or Regress: Rate-Memory-Compatible Spatially-Coupled Codes](http://arxiv.org/abs/2509.21112v1)** | 2025-09-25 | <details><summary>11 pa...</summary><p>11 pages (double column), 4 figures, the short version is to be submitted to the IEEE International Conference on Communications (ICC)</p></details> |
-| **[The Lifecycle Principle: Stabilizing Dynamic Neural Networks with State Memory](http://arxiv.org/abs/2509.02575v2)** | 2025-09-25 | 12 pages, 1 figure |
+| **[FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction](http://arxiv.org/abs/2509.21657v1)** | 2025-09-25 |  |
+| **[Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation](http://arxiv.org/abs/2504.14899v2)** | 2025-09-20 | <details><summary>Proje...</summary><p>Project page: https://github.com/ewrfcas/Uni3C. Accepted by Siggraph Asian 2025</p></details> |
+| **[Simplifying Traffic Anomaly Detection with Video Foundation Models](http://arxiv.org/abs/2507.09338v2)** | 2025-09-01 | <details><summary>ICCVW...</summary><p>ICCVW 2025 accepted. Code: https://github.com/tue-mps/simple-tad</p></details> |
+| **[Autoregressive Universal Video Segmentation Model](http://arxiv.org/abs/2508.19242v1)** | 2025-08-26 |  |
+| **[ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing](http://arxiv.org/abs/2508.10881v1)** | 2025-08-14 | <details><summary>Proje...</summary><p>Project Page: https://lg-li.github.io/project/tooncomposer</p></details> |
+| **[SAGOnline: Segment Any Gaussians Online](http://arxiv.org/abs/2508.08219v1)** | 2025-08-11 | 19 pages, 10 figures |
+| **[TRIBE: TRImodal Brain Encoder for whole-brain fMRI response prediction](http://arxiv.org/abs/2507.22229v1)** | 2025-07-29 |  |
+| **[SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking](http://arxiv.org/abs/2507.21732v1)** | 2025-07-29 |  |
+| **[Vidar: Embodied Video Diffusion Model for Generalist Bimanual Manipulation](http://arxiv.org/abs/2507.12898v2)** | 2025-07-27 |  |
+| **[SeqTex: Generate Mesh Textures in Video Sequence](http://arxiv.org/abs/2507.04285v1)** | 2025-07-06 |  |
+| **[SciVid: Cross-Domain Evaluation of Video Models in Scientific Applications](http://arxiv.org/abs/2507.03578v1)** | 2025-07-04 | <details><summary>ICCV ...</summary><p>ICCV 2025, GitHub repo: https://github.com/google-deepmind/scivid</p></details> |
+| **[TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control](http://arxiv.org/abs/2507.01424v2)** | 2025-07-03 |  |
+| **[GenLit: Reformulating Single-Image Relighting as Video Generation](http://arxiv.org/abs/2412.11224v3)** | 2025-06-20 |  |
+| **[SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis](http://arxiv.org/abs/2506.07603v2)** | 2025-06-16 |  |
+| **[Seeing Voices: Generating A-Roll Video from Audio with Mirage](http://arxiv.org/abs/2506.08279v1)** | 2025-06-09 | <details><summary>Techn...</summary><p>Technical report website: mirage.app/research/seeing-voices, product website: mirage.app</p></details> |
 
