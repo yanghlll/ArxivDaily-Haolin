@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2025
+title: Latest 15 Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -12,11 +12,11 @@ labels: documentation
 | **[METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding](http://arxiv.org/abs/2506.02850v2)** | 2025-09-29 | <details><summary>EMNLP...</summary><p>EMNLP 2025; 15 pages, 10 figures</p></details> |
 | **[StreamForest: Efficient Online Video Understanding with Persistent Event Memory](http://arxiv.org/abs/2509.24871v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at NeurIPS 2025</p></details> |
 | **[LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning](http://arxiv.org/abs/2509.24786v1)** | 2025-09-29 |  |
-| **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](http://arxiv.org/abs/2509.24304v1)** | 2025-09-29 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
-| **[UniVid: The Open-Source Unified Video Model](http://arxiv.org/abs/2509.24200v1)** | 2025-09-29 |  |
+| **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](http://arxiv.org/abs/2509.24304v2)** | 2025-09-30 |  |
+| **[UniVid: The Open-Source Unified Video Model](http://arxiv.org/abs/2509.24200v2)** | 2025-09-30 |  |
 | **[SVAC: Scaling Is All You Need For Referring Video Object Segmentation](http://arxiv.org/abs/2509.24109v1)** | 2025-09-28 | <details><summary>This ...</summary><p>This paper is accepted to BMVC 2025</p></details> |
 | **[GPS-MTM: Capturing Pattern of Normalcy in GPS-Trajectories with self-supervised learning](http://arxiv.org/abs/2509.24031v1)** | 2025-09-28 | 4 pages, 2 figures |
-| **[FrameMind: Frame-Interleaved Chain-of-Thought for Video Reasoning via Reinforcement Learning](http://arxiv.org/abs/2509.24008v1)** | 2025-09-28 | Underreview |
+| **[FameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](http://arxiv.org/abs/2509.24008v2)** | 2025-09-30 | Underreview |
 | **[Video Panels for Long Video Understanding](http://arxiv.org/abs/2509.23724v1)** | 2025-09-28 |  |
 | **[Token Merging via Spatiotemporal Information Mining for Surgical Video Understanding](http://arxiv.org/abs/2509.23672v1)** | 2025-09-28 |  |
 | **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v3)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
@@ -37,7 +37,7 @@ labels: documentation
 | **[EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks](http://arxiv.org/abs/2502.05907v2)** | 2025-09-29 |  |
 | **[Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning](http://arxiv.org/abs/2509.24313v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, submitted to the IEEE ICRA 2026, Vienna, Austria</p></details> |
 | **[FreeAction: Training-Free Techniques for Enhanced Fidelity of Trajectory-to-Video Generation](http://arxiv.org/abs/2509.24241v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted to CoRL 2025 LSRW workshop</p></details> |
-| **[Dual-Scale World Models for LLM Agents Towards Hard-Exploration Problems](http://arxiv.org/abs/2509.24116v1)** | 2025-09-28 |  |
+| **[Dual-Scale World Models for LLM Agents Towards Hard-Exploration Problems](http://arxiv.org/abs/2509.24116v2)** | 2025-09-30 |  |
 | **[Imagined Autocurricula](http://arxiv.org/abs/2509.13341v2)** | 2025-09-28 |  |
 | **[ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](http://arxiv.org/abs/2509.23979v1)** | 2025-09-28 | <details><summary>14 pa...</summary><p>14 pages,15 figures, Accepted to the 5th Wordplay: When Language Meets Games Workshop, EMNLP 2025</p></details> |
 | **[Reinforcement Learning with Inverse Rewards for World Model Post-training](http://arxiv.org/abs/2509.23958v1)** | 2025-09-28 |  |
@@ -64,6 +64,12 @@ labels: documentation
 ## Multimodal LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training](http://arxiv.org/abs/2509.26625v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project page: https://junlinhan.github.io/projects/lsbs/</p></details> |
+| **[LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search](http://arxiv.org/abs/2509.26324v1)** | 2025-09-30 |  |
+| **[SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval](http://arxiv.org/abs/2509.26012v1)** | 2025-09-30 |  |
+| **[A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI](http://arxiv.org/abs/2509.25889v1)** | 2025-09-30 | 23 pages, 3 figures |
+| **[GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs](http://arxiv.org/abs/2509.25178v1)** | 2025-09-29 |  |
+| **[Mitigating Hallucination in Multimodal LLMs with Layer Contrastive Decoding](http://arxiv.org/abs/2509.25177v1)** | 2025-09-29 |  |
 | **[ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation](http://arxiv.org/abs/2507.04952v2)** | 2025-09-29 |  |
 | **[Cell2Text: Multimodal LLM for Generating Single-Cell Descriptions from RNA-Seq Data](http://arxiv.org/abs/2509.24840v1)** | 2025-09-29 |  |
 | **[Vision Function Layer in Multimodal LLMs](http://arxiv.org/abs/2509.24791v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (preview; camera-ready in preparation)</p></details> |
@@ -73,12 +79,6 @@ labels: documentation
 | **[EarthMind: Leveraging Cross-Sensor Data for Advanced Earth Observation Interpretation with a Unified Multimodal LLM](http://arxiv.org/abs/2506.01667v2)** | 2025-09-28 |  |
 | **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](http://arxiv.org/abs/2509.23729v1)** | 2025-09-28 |  |
 | **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v3)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
-| **[A Structured Framework for Evaluating and Enhancing Interpretive Capabilities of Multimodal LLMs in Culturally Situated Tasks](http://arxiv.org/abs/2509.23208v1)** | 2025-09-27 | <details><summary>EMNLP...</summary><p>EMNLP 2025 submission, 10 pages, 6 figures, 5 tables</p></details> |
-| **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](http://arxiv.org/abs/2509.22646v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://deeptracereward.github.io/</p></details> |
-| **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v3)** | 2025-09-26 |  |
-| **[Explaining multimodal LLMs via intra-modal token interactions](http://arxiv.org/abs/2509.22415v1)** | 2025-09-26 |  |
-| **[EmoPrefer: Can Large Language Models Understand Human Emotion Preferences?](http://arxiv.org/abs/2507.04278v4)** | 2025-09-26 |  |
-| **[WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM](http://arxiv.org/abs/2509.21990v1)** | 2025-09-26 |  |
 
 ## Video Foundation Model
 | **Title** | **Date** | **Comment** |
