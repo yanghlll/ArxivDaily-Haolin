@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,7 +29,7 @@ labels: documentation
 | **[DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving](http://arxiv.org/abs/2510.12796v1)** | 2025-10-14 |  |
 | **[CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving](http://arxiv.org/abs/2510.12560v1)** | 2025-10-14 | 18 pages, 17 figures |
 | **[Deep SPI: Safe Policy Improvement via World Models](http://arxiv.org/abs/2510.12312v1)** | 2025-10-14 | <details><summary>10 pa...</summary><p>10 pages main text, 17 pages appendix (excluding references)</p></details> |
-| **[MTIL: Encoding Full History with Mamba for Temporal Imitation Learning](http://arxiv.org/abs/2505.12410v2)** | 2025-10-14 | <details><summary>8 pag...</summary><p>8 pages,5 figures.Published in IEEE Robotics and Automation Letters (RA-L), 2025</p></details> |
+| **[MTIL: Encoding Full History with Mamba for Temporal Imitation Learning](http://arxiv.org/abs/2505.12410v3)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in IEEE Robotics and Automation Letters (RA-L), 2025. 8 pages, 5 figures</p></details> |
 | **[One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration](http://arxiv.org/abs/2510.12088v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page: https://onelife-worldmodel.github.io/; 39 pages</p></details> |
 | **[DSM: Constructing a Diverse Semantic Map for 3D Visual Grounding](http://arxiv.org/abs/2504.08307v2)** | 2025-10-14 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Project Page: https://binicey.github.io/DSM</p></details> |
 | **[Agent Learning via Early Experience](http://arxiv.org/abs/2510.08558v2)** | 2025-10-13 | Work in progress |
@@ -40,7 +40,7 @@ labels: documentation
 | **[Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving](http://arxiv.org/abs/2510.10960v1)** | 2025-10-13 |  |
 | **[AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4D Scenes](http://arxiv.org/abs/2510.10670v1)** | 2025-10-12 |  |
 | **[KG-MAS: Knowledge Graph-Enhanced Multi-Agent Infrastructure for coupling physical and digital robotic environments](http://arxiv.org/abs/2510.10325v1)** | 2025-10-11 |  |
-| **[Ctrl-World: A Controllable Generative World Model for Robot Manipulation](http://arxiv.org/abs/2510.10125v1)** | 2025-10-11 | 17 pages |
+| **[Ctrl-World: A Controllable Generative World Model for Robot Manipulation](http://arxiv.org/abs/2510.10125v2)** | 2025-10-15 | 17 pages |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
@@ -48,11 +48,11 @@ labels: documentation
 | **[DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](http://arxiv.org/abs/2510.12801v1)** | 2025-10-14 |  |
 | **[SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models](http://arxiv.org/abs/2510.12784v1)** | 2025-10-14 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, webpage can be seen in https://waynejin0918.github.io/srum_web/</p></details> |
 | **[Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning](http://arxiv.org/abs/2510.12712v1)** | 2025-10-14 |  |
-| **[Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models](http://arxiv.org/abs/2509.26165v2)** | 2025-10-14 |  |
+| **[Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models](http://arxiv.org/abs/2509.26165v3)** | 2025-10-15 |  |
 | **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v2)** | 2025-10-14 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[SpineBench: Benchmarking Multimodal LLMs for Spinal Pathology Analysis](http://arxiv.org/abs/2510.12267v1)** | 2025-10-14 | <details><summary>Proce...</summary><p>Proceedings of the 33rd ACM International Conference on Multimedia,ACMMM 2025 Dataset Track</p></details> |
 | **[Contrast Sensitivity in Multimodal Large Language Models: A Psychophysics-Inspired Evaluation](http://arxiv.org/abs/2508.10367v2)** | 2025-10-14 |  |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v3)** | 2025-10-14 | <details><summary>This ...</summary><p>This paper has been accepted by the NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
+| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v4)** | 2025-10-15 | <details><summary>This ...</summary><p>This paper has been accepted by the NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
 | **[CompoDistill: Attention Distillation for Compositional Reasoning in Multimodal LLMs](http://arxiv.org/abs/2510.12184v1)** | 2025-10-14 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
 | **[UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](http://arxiv.org/abs/2510.12174v1)** | 2025-10-14 |  |
 | **[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](http://arxiv.org/abs/2510.10396v2)** | 2025-10-14 | 24 pages |
