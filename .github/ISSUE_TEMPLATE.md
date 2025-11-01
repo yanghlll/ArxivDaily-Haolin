@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -51,7 +51,7 @@ labels: documentation
 | **[Dependency Structure Augmented Contextual Scoping Framework for Multimodal Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2504.11331v2)** | 2025-10-30 |  |
 | **[Combining Unsupervised Learning and Statistical Inference For Multimodal N-of-1 Trials](http://arxiv.org/abs/2309.06455v3)** | 2025-10-30 | 22 pages, 7 figures |
 | **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v2)** | 2025-10-30 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
-| **[D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning - A Benchmark Dataset and Method](http://arxiv.org/abs/2509.06771v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Data Mining (ICDM) 2025</p></details> |
+| **[D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning -- A Benchmark Dataset and Method](http://arxiv.org/abs/2509.06771v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Data Mining (ICDM) 2025</p></details> |
 | **[Contribution-Guided Asymmetric Learning for Robust Multimodal Fusion under Imbalance and Noise](http://arxiv.org/abs/2510.26289v1)** | 2025-10-30 |  |
 | **[Open3D-VQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space](http://arxiv.org/abs/2503.11094v4)** | 2025-10-30 |  |
 | **[Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning](http://arxiv.org/abs/2412.20392v4)** | 2025-10-30 |  |
