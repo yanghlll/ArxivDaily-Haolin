@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](http://arxiv.org/abs/2510.08668v2)** | 2025-11-05 |  |
 | **[From the Laboratory to Real-World Application: Evaluating Zero-Shot Scene Interpretation on Edge Devices for Mobile Robotics](http://arxiv.org/abs/2511.02427v1)** | 2025-11-04 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 1 table; accepted for AI-2025 Forty-fifth SGAI International Conference on Artificial Intelligence CAMBRIDGE, ENGLAND 16-18 DECEMBER 2025</p></details> |
 | **[VidText: Towards Comprehensive Evaluation for Video Text Understanding](http://arxiv.org/abs/2505.22810v2)** | 2025-11-03 |  |
 | **[Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding](http://arxiv.org/abs/2505.18079v4)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
@@ -21,12 +22,13 @@ labels: documentation
 | **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](http://arxiv.org/abs/2510.27280v1)** | 2025-10-31 |  |
 | **[AVA: Towards Agentic Video Analytics with Vision Language Models](http://arxiv.org/abs/2505.00254v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
 | **[Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders](http://arxiv.org/abs/2510.26027v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA](http://arxiv.org/abs/2510.25332v1)** | 2025-10-29 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Kosmos: An AI Scientist for Autonomous Discovery](http://arxiv.org/abs/2511.02824v2)** | 2025-11-05 | <details><summary>Revis...</summary><p>Revision: figure layout changes and minor text edits</p></details> |
+| **[Indicating Robot Vision Capabilities with Augmented Reality](http://arxiv.org/abs/2511.03550v1)** | 2025-11-05 |  |
+| **[WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models](http://arxiv.org/abs/2511.03077v1)** | 2025-11-04 |  |
 | **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
 | **[Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](http://arxiv.org/abs/2510.27607v2)** | 2025-11-04 | 20 pages, 10 figures |
 | **[LTD-Bench: Evaluating Large Language Models by Letting Them Draw](http://arxiv.org/abs/2511.02347v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -39,31 +41,30 @@ labels: documentation
 | **[From Pixels to Cooperation Multi Agent Reinforcement Learning based on Multimodal World Models](http://arxiv.org/abs/2511.01310v1)** | 2025-11-03 |  |
 | **[Scaling Cross-Embodiment World Models for Dexterous Manipulation](http://arxiv.org/abs/2511.01177v1)** | 2025-11-03 |  |
 | **[Mapping Overlaps in Benchmarks through Perplexity in the Wild](http://arxiv.org/abs/2509.23488v3)** | 2025-11-03 |  |
-| **[Continual Learning, Not Training: Online Adaptation For Agents](http://arxiv.org/abs/2511.01093v1)** | 2025-11-02 | 12 pages, 4 figures |
-| **[URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](http://arxiv.org/abs/2511.00940v1)** | 2025-11-02 | <details><summary>Accep...</summary><p>Accepted to the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[High-Precision Modal Analysis of Multimode Waveguides from Amplitudes via Large-Step Nonconvex Optimization](http://arxiv.org/abs/2507.12299v2)** | 2025-11-05 |  |
+| **[Revisiting Multimodal Positional Encoding in Vision-Language Models](http://arxiv.org/abs/2510.23095v2)** | 2025-11-05 | 16 pages |
+| **[SVG Decomposition for Enhancing Large Multimodal Models Visualization Comprehension: A Study with Floor Plans](http://arxiv.org/abs/2511.03478v1)** | 2025-11-05 | 10 pages, 2 figures |
+| **[Benchmarking the Thinking Mode of Multimodal Large Language Models in Clinical Tasks](http://arxiv.org/abs/2511.03328v1)** | 2025-11-05 |  |
+| **[FUSAR-KLIP: Towards Multimodal Foundation Models for Remote Sensing](http://arxiv.org/abs/2509.23927v2)** | 2025-11-05 |  |
+| **[ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing](http://arxiv.org/abs/2506.21448v3)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Main</p></details> |
+| **[Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Video](http://arxiv.org/abs/2511.03227v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Conference on Neural Information Processing Systems, Workshop on Generative and Protective AI for Content Creation</p></details> |
 | **[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything](http://arxiv.org/abs/2511.02834v2)** | 2025-11-05 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 14 tables. Under Review</p></details> |
+| **[QG-CoC: Question-Guided Chain-of-Captions for Large Multimodal Models](http://arxiv.org/abs/2511.03206v1)** | 2025-11-05 | 16 pages |
+| **[SmartWilds: Multimodal Wildlife Monitoring Dataset](http://arxiv.org/abs/2509.18894v2)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted to Imageomics Workshop at Neurips 2025</p></details> |
+| **[ProM3E: Probabilistic Masked MultiModal Embedding Model for Ecology](http://arxiv.org/abs/2511.02946v1)** | 2025-11-04 | 21 pages, 16 figures |
 | **[When One Modality Sabotages the Others: A Diagnostic Lens on Multimodal Reasoning](http://arxiv.org/abs/2511.02794v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted at the Multimodal Algorithmic Reasoning (MAR) Workshop, NeurIPS 2025</p></details> |
 | **[VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation](http://arxiv.org/abs/2511.02778v1)** | 2025-11-04 | <details><summary>Proje...</summary><p>Project page: https://csu-jpg.github.io/VCode Github: https://github.com/CSU-JPG/VCode</p></details> |
 | **[ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding](http://arxiv.org/abs/2410.22211v2)** | 2025-11-04 | <details><summary>NAACL...</summary><p>NAACL2025, Code and Data: https://github.com/kimihiroh/promqa</p></details> |
 | **[GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution](http://arxiv.org/abs/2505.21375v2)** | 2025-11-04 | <details><summary>Neurl...</summary><p>NeurlPS 2025 Spotlight</p></details> |
-| **[Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](http://arxiv.org/abs/2511.02650v1)** | 2025-11-04 |  |
-| **[UniChange: Unifying Change Detection with Multimodal Large Language Model](http://arxiv.org/abs/2511.02607v1)** | 2025-11-04 |  |
-| **[Can MLLMs Read the Room? A Multimodal Benchmark for Verifying Truthfulness in Multi-Party Social Interactions](http://arxiv.org/abs/2510.27195v2)** | 2025-11-04 | ICCV2025 Workshop |
-| **[ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning](http://arxiv.org/abs/2510.27492v2)** | 2025-11-04 | <details><summary>proje...</summary><p>project page: https://thinkmorph.github.io/</p></details> |
-| **[OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data](http://arxiv.org/abs/2505.23522v2)** | 2025-11-04 |  |
-| **[GRAM-DTI: adaptive multimodal representation learning for drug target interaction prediction](http://arxiv.org/abs/2509.21971v2)** | 2025-11-04 |  |
-| **[Towards Relaxed Multimodal Inputs for Gait-based Parkinson's Disease Assessment](http://arxiv.org/abs/2510.15748v2)** | 2025-11-04 |  |
-| **[MM-2FSK: Multimodal Frequency Shift Keying for Ultra-Efficient and Robust High-Resolution MIMO Radar Imaging](http://arxiv.org/abs/2511.01405v2)** | 2025-11-04 | 9 pages |
-| **[LUMA-RAG: Lifelong Multimodal Agents with Provably Stable Streaming Alignment](http://arxiv.org/abs/2511.02371v1)** | 2025-11-04 |  |
-| **[Let Multimodal Embedders Learn When to Augment Query via Adaptive Query Augmentation](http://arxiv.org/abs/2511.02358v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted to MMGenSR Workshop (CIKM 2025)</p></details> |
 
 ## Multimodal LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialLM: Training Large Language Models for Structured Indoor Modeling](http://arxiv.org/abs/2506.07491v2)** | 2025-11-05 |  |
 | **[Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](http://arxiv.org/abs/2511.02650v1)** | 2025-11-04 |  |
 | **[Let Multimodal Embedders Learn When to Augment Query via Adaptive Query Augmentation](http://arxiv.org/abs/2511.02358v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted to MMGenSR Workshop (CIKM 2025)</p></details> |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v2)** | 2025-11-02 | NeurIPS 2025 |
@@ -78,7 +79,6 @@ labels: documentation
 | **[NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables](http://arxiv.org/abs/2504.06560v4)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes](http://arxiv.org/abs/2506.04897v3)** | 2025-10-28 | <details><summary>Updat...</summary><p>Update v3 of the NeurIPS 2025 Datasets and Benchmarks paper (v2), including additional evaluations of state-of-the-art multimodal large language models. Project page: https://anywhere-3d.github.io/</p></details> |
 | **[Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier](http://arxiv.org/abs/2510.23506v1)** | 2025-10-27 | 16 pages, 11 figures |
-| **[FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment](http://arxiv.org/abs/2510.22827v1)** | 2025-10-26 |  |
 
 ## Video Foundation Model
 | **Title** | **Date** | **Comment** |
