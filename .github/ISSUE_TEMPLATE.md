@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,9 +10,9 @@ labels: documentation
 | **[Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/pdf/2206.01720v1)** | 2022-06-06 | CVPR 2022 (Oral) |
 | **[Video Action Understanding](https://arxiv.org/pdf/2010.06647v2)** | 2021-10-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Infinite Video Understanding](https://arxiv.org/pdf/2507.09068v2)** | 2025-07-24 |  |
-| **[Video Panels for Long Video Understanding](https://arxiv.org/pdf/2509.23724v1)** | 2025-09-30 |  |
 | **[Long Video Understanding with Learnable Retrieval in Video-Language Models](https://arxiv.org/pdf/2312.04931v3)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM)</p></details> |
 | **[Omni-Video: Democratizing Unified Video Understanding and Generation](https://arxiv.org/pdf/2507.06119v3)** | 2025-08-22 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
+| **[Video Panels for Long Video Understanding](https://arxiv.org/pdf/2509.23724v1)** | 2025-09-30 |  |
 | **[Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs](https://arxiv.org/pdf/2409.20063v2)** | 2025-03-04 |  |
 | **[VideoChat: Chat-Centric Video Understanding](https://arxiv.org/pdf/2305.06355v2)** | 2024-01-05 | Technical report |
 | **[TinyLLaVA-Video: Towards Smaller LMMs for Video Understanding with Group Resampler](https://arxiv.org/pdf/2501.15513v2)** | 2025-06-11 | <details><summary>code ...</summary><p>code and training recipes are available at https://github.com/ZhangXJ199/TinyLLaVA-Video</p></details> |
@@ -35,31 +35,31 @@ labels: documentation
 | **[From Masks to Worlds: A Hitchhiker's Guide to World Models](https://arxiv.org/pdf/2510.20668v1)** | 2025-10-24 | <details><summary>Githu...</summary><p>Github: https://github.com/M-E-AGI-Lab/Awesome-World-Models</p></details> |
 | **[Predictive World Models from Real-World Partial Observations](https://arxiv.org/pdf/2301.04783v3)** | 2023-05-24 | <details><summary>Best ...</summary><p>Best Paper Award at IEEE MOST 2023</p></details> |
 | **[Quantifying Multimodality in World Models](https://arxiv.org/pdf/2112.07263v1)** | 2021-12-15 |  |
-| **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
 | **[Clone Deterministic 3D Worlds with Geometrically-Regularized World Models](https://arxiv.org/pdf/2510.26782v1)** | 2025-10-31 |  |
+| **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
+| **[PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://arxiv.org/pdf/2511.09057v2)** | 2025-11-14 |  |
 | **[Finetuning Offline World Models in the Real World](https://arxiv.org/pdf/2310.16029v1)** | 2023-10-25 | <details><summary>CoRL ...</summary><p>CoRL 2023 Oral; Project website: https://yunhaifeng.com/FOWM</p></details> |
 | **[Modeling Worlds in Text](https://arxiv.org/pdf/2106.09578v1)** | 2021-06-18 | <details><summary>Prepr...</summary><p>Preprint. Under review. Benchmark can be found at https://github.com/JerichoWorld/JerichoWorld</p></details> |
 | **[Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments](https://arxiv.org/pdf/2503.08122v1)** | 2025-03-12 | Preprint |
-| **[A General World Model with Poiesis: Poppers Three Worlds updated with Software](https://arxiv.org/pdf/1604.00360v1)** | 2016-04-04 | <details><summary>9 pag...</summary><p>9 pages. 1 Figure of a world model with physics, software and Geist, Book published 2016 (in German) by Springer, Heidelberg, with the general fundamentals of Software for philosophy</p></details> |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Factorized Multimodal Transformer for Multimodal Sequential Learning](https://arxiv.org/pdf/1911.09826v1)** | 2019-11-25 |  |
 | **[Toward Robust Multimodal Learning using Multimodal Foundational Models](https://arxiv.org/pdf/2401.13697v1)** | 2024-01-26 | Under Review |
-| **[Multimodal Reasoning with Multimodal Knowledge Graph](https://arxiv.org/pdf/2406.02030v2)** | 2024-06-06 | <details><summary>Accep...</summary><p>Accepted by ACL 2024 (Main Conference)</p></details> |
 | **[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295v1)** | 2019-06-04 |  |
+| **[Multimodal Reasoning with Multimodal Knowledge Graph](https://arxiv.org/pdf/2406.02030v2)** | 2024-06-06 | <details><summary>Accep...</summary><p>Accepted by ACL 2024 (Main Conference)</p></details> |
 | **[Multimodal Knowledge Expansion](https://arxiv.org/pdf/2103.14431v3)** | 2021-11-01 | <details><summary>Accep...</summary><p>Accepted by ICCV 2021. Project website: https://tsinghua-mars-lab.github.io/MKE/</p></details> |
 | **[Dynamic Multimodal Fusion](https://arxiv.org/pdf/2204.00102v2)** | 2023-04-10 | <details><summary>Accep...</summary><p>Accepted by 6th Multi-Modal Learning and Applications Workshop (MULA), CVPR 2023. Code available at: https://github.com/zihuixue/DynMM</p></details> |
-| **[Needle In A Multimodal Haystack](https://arxiv.org/pdf/2406.07230v2)** | 2024-10-11 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024 Track Datasets and Benchmarks</p></details> |
 | **[MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/pdf/2411.02571v2)** | 2025-02-25 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. We release the model weights at: https://huggingface.co/nvidia/MM-Embed</p></details> |
+| **[Needle In A Multimodal Haystack](https://arxiv.org/pdf/2406.07230v2)** | 2024-10-11 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024 Track Datasets and Benchmarks</p></details> |
 | **[Multimodal diff-hash](https://arxiv.org/pdf/1111.1461v1)** | 2011-11-08 |  |
 | **[On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782v2)** | 2023-12-19 | ALT 2024, to appear |
-| **[Multimodal Learning with Transformers: A Survey](https://arxiv.org/pdf/2206.06488v2)** | 2023-05-11 | <details><summary>This ...</summary><p>This paper is accepted by IEEE TPAMI</p></details> |
 | **[UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning](https://arxiv.org/pdf/2305.09299v1)** | 2023-05-17 | ACL 2023 Findings |
+| **[Multimodal Learning with Transformers: A Survey](https://arxiv.org/pdf/2206.06488v2)** | 2023-05-11 | <details><summary>This ...</summary><p>This paper is accepted by IEEE TPAMI</p></details> |
 | **[Multimodal Grounding for Language Processing](https://arxiv.org/pdf/1806.06371v2)** | 2019-07-04 | <details><summary>The p...</summary><p>The paper has been published in the Proceedings of the 27 Conference of Computational Linguistics. Please refer to this version for citations: https://www.aclweb.org/anthology/papers/C/C18/C18-1197/</p></details> |
 | **[What is Multimodality?](https://arxiv.org/pdf/2103.06304v3)** | 2021-08-23 | <details><summary>Paper...</summary><p>Paper accepted for publication at MMSR 2021; 10 pages, 5 figures</p></details> |
-| **[Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos](https://arxiv.org/pdf/2206.07981v2)** | 2022-06-20 |  |
+| **[Few-shot Multimodal Sentiment Analysis based on Multimodal Probabilistic Fusion Prompts](https://arxiv.org/pdf/2211.06607v2)** | 2023-08-02 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 7 tables. It has been accepted ACM MM 2023</p></details> |
 
 ## Multimodal LLM
 | **Title** | **Date** | **Comment** |
@@ -69,16 +69,16 @@ labels: documentation
 | **[LLMs Meet Multimodal Generation and Editing: A Survey](https://arxiv.org/pdf/2405.19334v2)** | 2024-06-11 | <details><summary>52 Pa...</summary><p>52 Pages with 16 Figures, 12 Tables, and 545 References. GitHub Repository at: https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation</p></details> |
 | **[ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine](https://arxiv.org/pdf/2508.14706v1)** | 2025-08-21 |  |
 | **[Universal Adversarial Attack on Aligned Multimodal LLMs](https://arxiv.org/pdf/2502.07987v3)** | 2025-06-06 | <details><summary>Added...</summary><p>Added benchmarks, baselines, author, appendix</p></details> |
-| **[EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs](https://arxiv.org/pdf/2310.08949v3)** | 2024-05-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2024, main conference</p></details> |
 | **[Understanding the Role of LLMs in Multimodal Evaluation Benchmarks](https://arxiv.org/pdf/2410.12329v1)** | 2024-10-17 |  |
+| **[EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs](https://arxiv.org/pdf/2310.08949v3)** | 2024-05-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2024, main conference</p></details> |
 | **[Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs](https://arxiv.org/pdf/2411.04708v2)** | 2025-02-14 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 1 figure, paper under review</p></details> |
 | **[From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](https://arxiv.org/pdf/2406.14859v1)** | 2024-06-24 |  |
 | **[Position: Empowering Time Series Reasoning with Multimodal LLMs](https://arxiv.org/pdf/2502.01477v1)** | 2025-02-04 |  |
 | **[Beyond Words: Multimodal LLM Knows When to Speak](https://arxiv.org/pdf/2505.14654v1)** | 2025-05-21 | <details><summary>Proje...</summary><p>Project page: https://github.com/lzk901372/MM-When2Speak</p></details> |
+| **[Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization](https://arxiv.org/pdf/2502.02810v2)** | 2025-05-27 | 9 pages, 5 figures |
 | **[Chitranuvad: Adapting Multi-Lingual LLMs for Multimodal Translation](https://arxiv.org/pdf/2502.20420v1)** | 2025-03-03 |  |
 | **[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/pdf/2406.01032v1)** | 2024-06-04 |  |
-| **[CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts](https://arxiv.org/pdf/2405.05949v1)** | 2024-05-10 |  |
-| **[NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402v2)** | 2024-10-24 | <details><summary>Fixed...</summary><p>Fixed the typos. For more information, please visit our project page at: https://research.nvidia.com/labs/adlr/NVLM-1</p></details> |
+| **[Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey](https://arxiv.org/pdf/2507.22920v1)** | 2025-08-01 |  |
 
 ## Video Foundation Model
 | **Title** | **Date** | **Comment** |
