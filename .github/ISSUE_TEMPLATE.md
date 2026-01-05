@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Variable Importance in Generalized Linear Models -- A Unifying View Using Shapley Values](https://arxiv.org/abs/2601.00773v1)** | 2026-01-02 | 33 pages, 3 figures |
+| **[Unified Primitive Proxies for Structured Shape Completion](https://arxiv.org/abs/2601.00759v1)** | 2026-01-02 |  |
+| **[JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation](https://arxiv.org/abs/2512.22905v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS as a Spotlight paper. Code: https://github.com/JavisVerse/JavisGPT</p></details> |
+| **[PolarGrad: A Class of Matrix-Gradient Optimizers from a Unifying Preconditioning Perspective](https://arxiv.org/abs/2505.21799v3)** | 2026-01-02 |  |
+| **[AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Mulitmodal Models](https://arxiv.org/abs/2601.00561v1)** | 2026-01-02 |  |
+| **[CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge](https://arxiv.org/abs/2601.00549v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 algorithm</p></details> |
+| **[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/abs/2512.24125v2)** | 2026-01-01 |  |
+| **[Survey of Data-driven Newsvendor: Unified Analysis and Spectrum of Achievable Regrets](https://arxiv.org/abs/2409.03505v5)** | 2026-01-01 | <details><summary>Forth...</summary><p>Forthcoming in Operations Research</p></details> |
+| **[Joint Geometry-Appearance Human Reconstruction in a Unified Latent Space via Bridge Diffusion](https://arxiv.org/abs/2601.00328v1)** | 2026-01-01 |  |
 | **[UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning](https://arxiv.org/abs/2512.24763v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project Page: https://unic-lift.github.io/</p></details> |
 | **[Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education](https://arxiv.org/abs/2512.24362v1)** | 2025-12-30 |  |
 | **[UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots](https://arxiv.org/abs/2512.24321v1)** | 2025-12-30 | <details><summary>Proje...</summary><p>Project page: https://jnnan.github.io/uniact/</p></details> |
-| **[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/abs/2512.24125v1)** | 2025-12-30 |  |
 | **[Information Physics of Intelligence: Unifying Logical Depth and Entropy under Thermodynamic Constraints](https://arxiv.org/abs/2511.19156v4)** | 2025-12-30 |  |
 | **[TabMixNN: A Unified Deep Learning Framework for Structural Mixed Effects Modeling on Tabular Data](https://arxiv.org/abs/2512.23787v1)** | 2025-12-29 |  |
 | **[When Deepfake Detection Meets Graph Neural Network:a Unified and Lightweight Learning Framework](https://arxiv.org/abs/2508.05526v2)** | 2025-12-29 | Accepted to KDD 2026 |
-| **[A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers](https://arxiv.org/abs/2512.23380v1)** | 2025-12-29 | <details><summary>72 pa...</summary><p>72 pages, 19 figures, 19 tables, accepted in scientific reports on 5 November 2025</p></details> |
-| **[Trusted Uncertainty in Large Language Models: A Unified Framework for Confidence Calibration and Risk-Controlled Refusal](https://arxiv.org/abs/2509.01455v3)** | 2025-12-29 | 10 pages, 5 figures |
-| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](https://arxiv.org/abs/2510.23479v2)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code Link: https://github.com/JinXins/MergeMix</p></details> |
-| **[Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643v2)** | 2025-12-29 |  |
-| **[Bridging Your Imagination with Audio-Video Generation via a Unified Director](https://arxiv.org/abs/2512.23222v1)** | 2025-12-29 |  |
-| **[UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer](https://arxiv.org/abs/2512.21233v3)** | 2025-12-29 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
-| **[GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180v1)** | 2025-12-29 |  |
-| **[A Unified View of Optimal Kernel Hypothesis Testing](https://arxiv.org/abs/2503.07084v2)** | 2025-12-28 | <details><summary>46 pa...</summary><p>46 pages, 1 figure, fix header</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006v6)** | 2026-01-01 |  |
 | **[Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention](https://arxiv.org/abs/2512.24323v1)** | 2025-12-30 | NeurIPS 2025 |
 | **[Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation](https://arxiv.org/abs/2512.24271v1)** | 2025-12-30 | 18 pages |
 | **[Factorized Learning for Temporally Grounded Video-Language Models](https://arxiv.org/abs/2512.24097v1)** | 2025-12-30 | <details><summary>ICCV ...</summary><p>ICCV 2025 paper. This arXiv version updates Figure 1 to include the concurrent work Qwen2.5-VL to ensure consistency with Table 1</p></details> |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Streaming Video Instruction Tuning](https://arxiv.org/abs/2512.21334v1)** | 2025-12-24 |  |
 | **[ChainReaction: Causal Chain-Guided Reasoning for Modular and Explainable Causal-Why Video Question Answering](https://arxiv.org/abs/2508.21010v2)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
 | **[FERA: A Pose-Based Semantic Pipeline for Automated Foil Fencing Refereeing](https://arxiv.org/abs/2509.18527v4)** | 2025-12-24 | <details><summary>Updat...</summary><p>Updated Methodology and polished sections</p></details> |
-| **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v1)** | 2025-12-24 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393v1)** | 2026-01-01 | <details><summary>Proje...</summary><p>Project Page: https://neoverse-4d.github.io</p></details> |
+| **[YOLO-IOD: Towards Real Time Incremental Object Detection](https://arxiv.org/abs/2512.22973v2)** | 2026-01-01 | <details><summary>AAAI ...</summary><p>AAAI 2026 accepted. Code & models are available at: https://github.com/qiangzai-lv/YOLO-IOD</p></details> |
+| **[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051v1)** | 2025-12-31 |  |
 | **[LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving](https://arxiv.org/abs/2512.24712v1)** | 2025-12-31 |  |
 | **[DriveLaW:Unifying Planning and Video Generation in a Latent Driving World](https://arxiv.org/abs/2512.23421v2)** | 2025-12-31 | 17 pages, 7 figures |
 | **[What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](https://arxiv.org/abs/2512.24497v1)** | 2025-12-30 |  |
@@ -57,28 +60,25 @@ labels: documentation
 | **[Web World Models](https://arxiv.org/abs/2512.23676v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Princeton-AI2-Lab/Web-World-Models</p></details> |
 | **[Act2Goal: From World Model To General Goal-conditioned Policy](https://arxiv.org/abs/2512.23541v1)** | 2025-12-29 |  |
 | **[LidarDM: Generative LiDAR Simulation in a Generated World](https://arxiv.org/abs/2404.02903v2)** | 2025-12-29 |  |
-| **[GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180v1)** | 2025-12-29 |  |
-| **[YOLO-IOD: Towards Real Time Incremental Object Detection](https://arxiv.org/abs/2512.22973v1)** | 2025-12-28 | <details><summary>AAAAI...</summary><p>AAAAI 2026 accepted. Code & models are available at: https://github.com/qiangzai-lv/YOLO-IOD</p></details> |
-| **[What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models](https://arxiv.org/abs/2507.06952v4)** | 2025-12-27 | <details><summary>To ap...</summary><p>To appear in ICML 2025</p></details> |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
+| **[Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care](https://arxiv.org/abs/2601.00670v1)** | 2026-01-02 |  |
+| **[A Sparse-Attention Deep Learning Model Integrating Heterogeneous Multimodal Features for Parkinson's Disease Severity Profiling](https://arxiv.org/abs/2601.00519v1)** | 2026-01-02 |  |
+| **[OmniVaT: Single Domain Generalization for Multimodal Visual-Tactile Learning](https://arxiv.org/abs/2601.00352v1)** | 2026-01-01 |  |
+| **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006v6)** | 2026-01-01 |  |
+| **[From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](https://arxiv.org/abs/2601.00215v1)** | 2026-01-01 | <details><summary>23 pa...</summary><p>23 pages, 15 Figures, 10 Tables</p></details> |
+| **[FCMBench: A Comprehensive Financial Credit Multimodal Benchmark for Real-world Applications](https://arxiv.org/abs/2601.00150v1)** | 2026-01-01 |  |
+| **[A Spatially Masked Adaptive Gated Network for multimodal post-flood water extent mapping using SAR and incomplete multispectral data](https://arxiv.org/abs/2601.00123v1)** | 2025-12-31 | <details><summary>50 pa...</summary><p>50 pages, 12 figures, 6 tables</p></details> |
+| **[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051v1)** | 2025-12-31 |  |
 | **[FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation](https://arxiv.org/abs/2512.24903v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Track</p></details> |
 | **[Large Multimodal Models for Low-Resource Languages: A Survey](https://arxiv.org/abs/2502.05568v2)** | 2025-12-31 |  |
 | **[Self-Supervised Neural Architecture Search for Multimodal Deep Neural Networks](https://arxiv.org/abs/2512.24793v1)** | 2025-12-31 |  |
 | **[Multimodal Fact-Checking: An Agent-based Approach](https://arxiv.org/abs/2512.22933v2)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and dataset will be released at https://github.com/xudanni0927/AgentFact</p></details> |
 | **[MCITlib: Multimodal Continual Instruction Tuning Library and Benchmark](https://arxiv.org/abs/2508.07307v3)** | 2025-12-31 | Preprint |
 | **[TrimTokenator-LC: Towards Adaptive Visual Token Pruning for Large Multimodal Models with Long Contexts](https://arxiv.org/abs/2512.22748v2)** | 2025-12-31 | 17 pages |
-| **[TIM-PRM: Verifying multimodal reasoning with Tool-Integrated PRM](https://arxiv.org/abs/2511.22998v2)** | 2025-12-31 | 12 pages |
-| **[Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism](https://arxiv.org/abs/2511.10045v4)** | 2025-12-31 | <details><summary>33 pa...</summary><p>33 pages, 27 tables, 10 figures</p></details> |
-| **[MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs](https://arxiv.org/abs/2406.17126v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 (Dataset and Benchmark Track)</p></details> |
-| **[SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning](https://arxiv.org/abs/2512.24330v1)** | 2025-12-30 |  |
-| **[RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature](https://arxiv.org/abs/2512.23565v2)** | 2025-12-30 |  |
-| **[CVBench: Benchmarking Cross-Video Synergies for Complex Multimodal Reasoning](https://arxiv.org/abs/2508.19542v3)** | 2025-12-30 |  |
-| **[Holistic Evaluation of Multimodal LLMs on Spatial Intelligence](https://arxiv.org/abs/2508.13142v5)** | 2025-12-30 | <details><summary>Codeb...</summary><p>Codebase: https://github.com/EvolvingLMMs-Lab/EASI/ ; Leaderboard: https://huggingface.co/spaces/lmms-lab-si/EASI-Leaderboard</p></details> |
-| **[Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/abs/2511.13719v3)** | 2025-12-30 | <details><summary>Codeb...</summary><p>Codebase: https://github.com/OpenSenseNova/SenseNova-SI ; Models: https://huggingface.co/collections/sensenova/sensenova-si</p></details> |
-| **[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165v1)** | 2025-12-30 | <details><summary>Proje...</summary><p>Project page: https://diffthinker-project.github.io</p></details> |
 
 ## Multimodal LLM
 | **Title** | **Date** | **Comment** |
