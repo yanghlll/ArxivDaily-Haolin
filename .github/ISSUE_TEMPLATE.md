@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Unified
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SVD Incidence Centrality: A Unified Spectral Framework for Node and Edge Analysis in Directed Networks and Hypergraphs](https://arxiv.org/abs/2602.15736v1)** | 2026-02-17 |  |
+| **[A unified theory of feature learning in RNNs and DNNs](https://arxiv.org/abs/2602.15593v1)** | 2026-02-17 |  |
+| **[Uni-Flow: a unified autoregressive-diffusion model for complex multiscale flows](https://arxiv.org/abs/2602.15592v1)** | 2026-02-17 |  |
+| **[A Unified Evaluation of Learning-Based Similarity Techniques for Malware Detection](https://arxiv.org/abs/2602.15376v1)** | 2026-02-17 |  |
+| **[BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening](https://arxiv.org/abs/2602.15236v1)** | 2026-02-16 |  |
 | **[Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641v3)** | 2026-02-16 | <details><summary>Repos...</summary><p>Repository for the related papers at https://github.com/ALEEEHU/World-Simulator</p></details> |
 | **[Thermal Min-Max Games: Unifying Bounded Rationality and Typical-Case Equilibrium](https://arxiv.org/abs/2602.14858v1)** | 2026-02-16 | 31 pages, 4 figures |
 | **[A Unified Mathematical Framework for Distributed Data Fabrics: Categorical Hypergraph Models](https://arxiv.org/abs/2602.14708v1)** | 2026-02-16 |  |
@@ -17,15 +22,11 @@ labels: documentation
 | **[Multi-Agent Debate: A Unified Agentic Framework for Tabular Anomaly Detection](https://arxiv.org/abs/2602.14251v1)** | 2026-02-15 |  |
 | **[UniWeTok: An Unified Binary Tokenizer with Codebook Size $\mathit{2^{128}}$ for Unified Multimodal Large Language Model](https://arxiv.org/abs/2602.14178v1)** | 2026-02-15 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 33 tables</p></details> |
 | **[LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.14147v1)** | 2026-02-15 | 28 pages, 11 figures |
-| **[UGround: Towards Unified Visual Grounding with Unrolled Transformers](https://arxiv.org/abs/2510.03853v3)** | 2026-02-15 | <details><summary>https...</summary><p>https://github.com/rui-qian/UGround</p></details> |
-| **[UniST-Pred: A Robust Unified Framework for Spatio-Temporal Traffic Forecasting in Transportation Networks Under Disruptions](https://arxiv.org/abs/2602.14049v1)** | 2026-02-15 |  |
-| **[Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow](https://arxiv.org/abs/2602.14021v1)** | 2026-02-15 | <details><summary>Proje...</summary><p>Project Page: https://shenhanqian.github.io/flow4r</p></details> |
-| **[Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://arxiv.org/abs/2602.01023v4)** | 2026-02-14 | 11 pages, 4 figures |
-| **[sleep2vec: Unified Cross-Modal Alignment for Heterogeneous Nocturnal Biosignals](https://arxiv.org/abs/2602.13857v1)** | 2026-02-14 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329v1)** | 2026-02-17 |  |
 | **[OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence](https://arxiv.org/abs/2602.08683v2)** | 2026-02-15 |  |
 | **[Dual-Signal Adaptive KV-Cache Optimization for Long-Form Video Understanding in Vision-Language Models](https://arxiv.org/abs/2602.14236v1)** | 2026-02-15 |  |
 | **[A generalizable foundation model for intraoperative understanding across surgical procedures](https://arxiv.org/abs/2602.13633v1)** | 2026-02-14 |  |
@@ -40,11 +41,15 @@ labels: documentation
 | **[MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling](https://arxiv.org/abs/2602.13332v1)** | 2026-02-11 |  |
 | **[VideoSTF: Stress-Testing Output Repetition in Video Large Language Models](https://arxiv.org/abs/2602.10639v1)** | 2026-02-11 |  |
 | **[Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](https://arxiv.org/abs/2512.00891v2)** | 2026-02-11 | <details><summary>Code ...</summary><p>Code is avaliable at \url{https://github.com/lern-to-write/STC}</p></details> |
-| **[RoboSubtaskNet: Temporal Sub-task Segmentation for Human-to-Robot Skill Transfer in Real-World Environments](https://arxiv.org/abs/2602.10015v2)** | 2026-02-11 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation](https://arxiv.org/abs/2602.08968v2)** | 2026-02-17 |  |
+| **[Horizon Imagination: Efficient On-Policy Rollout in Diffusion World Models](https://arxiv.org/abs/2602.08032v2)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper will be published in the ICLR 2026 proceedings</p></details> |
+| **[VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing](https://arxiv.org/abs/2602.15549v1)** | 2026-02-17 |  |
+| **[Geometry-Aware Rotary Position Embedding for Consistent Video World Model](https://arxiv.org/abs/2602.07854v2)** | 2026-02-17 |  |
+| **[World-Model-Augmented Web Agents with Action Correction](https://arxiv.org/abs/2602.15384v1)** | 2026-02-17 |  |
 | **[Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641v3)** | 2026-02-16 | <details><summary>Repos...</summary><p>Repository for the related papers at https://github.com/ALEEEHU/World-Simulator</p></details> |
 | **[Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/abs/2602.15012v1)** | 2026-02-16 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 4 tables</p></details> |
 | **[Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526v4)** | 2026-02-16 | <details><summary>IEEE ...</summary><p>IEEE Open Journal of Intelligent Transportation Systems</p></details> |
@@ -55,34 +60,35 @@ labels: documentation
 | **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079v3)** | 2026-02-15 | <details><summary>KDD 2...</summary><p>KDD 2026 (Datasets and Benchmarks) accepted</p></details> |
 | **[WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL](https://arxiv.org/abs/2602.13977v1)** | 2026-02-15 | 21pages, 8 figures |
 | **[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://arxiv.org/abs/2602.12063v2)** | 2026-02-15 | <details><summary>Proje...</summary><p>Project Page: https://sites.google.com/view/vlaw-arxiv</p></details> |
-| **[Debugging code world models](https://arxiv.org/abs/2602.07672v2)** | 2026-02-14 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, under review in conference</p></details> |
-| **[Compact LLM Deployment and World Model Assisted Offloading in Mobile Edge Computing](https://arxiv.org/abs/2602.13628v1)** | 2026-02-14 | 16 pages, 10 figures |
-| **[VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/abs/2602.10098v2)** | 2026-02-14 |  |
-| **[From Snapshot Sensing to Persistent EM World Modeling: A Generative-Space Perspective for ISAC](https://arxiv.org/abs/2602.13554v1)** | 2026-02-14 | <details><summary>7 pag...</summary><p>7 pages, 6 figures/tables</p></details> |
-| **[InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation](https://arxiv.org/abs/2601.02456v2)** | 2026-02-13 | <details><summary>Homep...</summary><p>Homepage: https://internrobotics.github.io/internvla-a1.github.io/</p></details> |
 
 ## Multimodal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641v3)** | 2026-02-16 | <details><summary>Repos...</summary><p>Repository for the related papers at https://github.com/ALEEEHU/World-Simulator</p></details> |
-| **[Orthogonalized Multimodal Contrastive Learning with Asymmetric Masking for Structured Representations](https://arxiv.org/abs/2602.14983v1)** | 2026-02-16 |  |
-| **[Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment](https://arxiv.org/abs/2602.14889v1)** | 2026-02-16 |  |
-| **[CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography](https://arxiv.org/abs/2602.14879v1)** | 2026-02-16 |  |
-| **[C^2ROPE: Causal Continuous Rotary Positional Encoding for 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2602.10551v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted in ICRA 2026</p></details> |
-| **[ROSA: Roundabout Optimized Speed Advisory with Multi-Agent Trajectory Prediction in Multimodal Traffic](https://arxiv.org/abs/2602.14780v1)** | 2026-02-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 4 tables, 2026 IEEE International Conference on Intelligent Transportation Systems (ITSC)</p></details> |
-| **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v2)** | 2026-02-16 |  |
-| **[MATEO: A Multimodal Benchmark for Temporal Reasoning and Planning in LVLMs](https://arxiv.org/abs/2602.14589v1)** | 2026-02-16 |  |
-| **[Multimodal Covariance Steering in Belief Space with Active Probing and Influence for Autonomous Driving](https://arxiv.org/abs/2602.14540v1)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
-| **[Diagnosing Knowledge Conflict in Multimodal Long-Chain Reasoning](https://arxiv.org/abs/2602.14518v1)** | 2026-02-16 |  |
-| **[Unsupervised MR-US Multimodal Image Registration with Multilevel Correlation Pyramidal Optimization](https://arxiv.org/abs/2602.06288v2)** | 2026-02-16 | <details><summary>first...</summary><p>first-place method of ReMIND2Reg Learn2Reg MICCAI 2025</p></details> |
-| **[Feature Recalibration Based Olfactory-Visual Multimodal Model for Fine-Grained Rice Deterioration Detection](https://arxiv.org/abs/2602.14408v1)** | 2026-02-16 |  |
-| **[V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](https://arxiv.org/abs/2502.09980v4)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026 (IEEE International Conference on Robotics and Automation). Project: https://eddyhkchiu.github.io/v2vllm.github.io/ Code: https://github.com/eddyhkchiu/V2V-LLM Dataset: https://huggingface.co/datasets/eddyhkchiu/V2V-GoT-QA</p></details> |
-| **[V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts](https://arxiv.org/abs/2509.18053v4)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026 (IEEE International Conference on Robotics and Automation). Project: https://eddyhkchiu.github.io/v2vgot.github.io/ Code: https://github.com/eddyhkchiu/V2V-GoT Dataset: https://huggingface.co/datasets/eddyhkchiu/V2V-GoT-QA</p></details> |
-| **[ORACLE-Grasp: Zero-Shot Affordance-Aligned Robotic Grasping using Large Multimodal Models](https://arxiv.org/abs/2505.08417v2)** | 2026-02-15 |  |
+| **[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://arxiv.org/abs/2602.15772v1)** | 2026-02-17 | Accepted to ICLR2026 |
+| **[ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution](https://arxiv.org/abs/2602.15769v1)** | 2026-02-17 |  |
+| **[ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models](https://arxiv.org/abs/2602.15758v1)** | 2026-02-17 | <details><summary>16 pa...</summary><p>16 pages, 13 figures including Supplementary Material</p></details> |
+| **[SSL4EO-S12 v1.1: A Multimodal, Multiseasonal Dataset for Pretraining, Updated](https://arxiv.org/abs/2503.00168v3)** | 2026-02-17 |  |
+| **[MRC-GAT: A Meta-Relational Copula-Based Graph Attention Network for Interpretable Multimodal Alzheimer's Disease Diagnosis](https://arxiv.org/abs/2602.15740v1)** | 2026-02-17 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 10 table</p></details> |
+| **[Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
+| **[Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation](https://arxiv.org/abs/2602.15650v1)** | 2026-02-17 |  |
+| **[Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs](https://arxiv.org/abs/2601.03100v2)** | 2026-02-17 |  |
+| **[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](https://arxiv.org/abs/2602.06886v2)** | 2026-02-17 | 18 pages |
+| **[How Vision Becomes Language: A Layer-wise Information-Theoretic Analysis of Multimodal Reasoning](https://arxiv.org/abs/2602.15580v1)** | 2026-02-17 |  |
+| **[Selective Perception for Robot: Task-Aware Attention in Multimodal VLA](https://arxiv.org/abs/2602.15543v1)** | 2026-02-17 |  |
+| **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
+| **[MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark](https://arxiv.org/abs/2505.12254v2)** | 2026-02-17 | Under review |
+| **[Multimodal Peer Review Simulation with Actionable To-Do Recommendations for Community-Aware Manuscript Revisions](https://arxiv.org/abs/2511.10902v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted by TheWebConf 2026 Demo Track</p></details> |
+| **[Feasibility-aware Imitation Learning from Observation with Multimodal Feedback](https://arxiv.org/abs/2602.15351v1)** | 2026-02-17 |  |
 
 ## Multimodal LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Binary Classification: Detecting Fine-Grained Sexism in Social Media Videos](https://arxiv.org/abs/2602.15757v1)** | 2026-02-17 |  |
+| **[Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
+| **[Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs](https://arxiv.org/abs/2601.03100v2)** | 2026-02-17 |  |
+| **[On the Out-of-Distribution Generalization of Reasoning in Multimodal LLMs for Simple Visual Planning Tasks](https://arxiv.org/abs/2602.15460v1)** | 2026-02-17 |  |
+| **[Multimodal Peer Review Simulation with Actionable To-Do Recommendations for Community-Aware Manuscript Revisions](https://arxiv.org/abs/2511.10902v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted by TheWebConf 2026 Demo Track</p></details> |
+| **[AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking](https://arxiv.org/abs/2602.15190v1)** | 2026-02-16 |  |
 | **[RF-GPT: Teaching AI to See the Wireless World](https://arxiv.org/abs/2602.14833v1)** | 2026-02-16 |  |
 | **[V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](https://arxiv.org/abs/2502.09980v4)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026 (IEEE International Conference on Robotics and Automation). Project: https://eddyhkchiu.github.io/v2vllm.github.io/ Code: https://github.com/eddyhkchiu/V2V-LLM Dataset: https://huggingface.co/datasets/eddyhkchiu/V2V-GoT-QA</p></details> |
 | **[DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors](https://arxiv.org/abs/2602.14134v1)** | 2026-02-15 | 25 pages, 9 figures |
@@ -92,12 +98,6 @@ labels: documentation
 | **[Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education](https://arxiv.org/abs/2602.12196v1)** | 2026-02-12 |  |
 | **[SafeNeuron: Neuron-Level Safety Alignment for Large Language Models](https://arxiv.org/abs/2602.12158v1)** | 2026-02-12 |  |
 | **[EasyUUV: An LLM-Enhanced Universal and Lightweight Sim-to-Real Reinforcement Learning Framework for UUV Attitude Control](https://arxiv.org/abs/2510.22126v2)** | 2026-02-12 | 10 pages, 13 figures |
-| **[Human Behavior Atlas: Benchmarking Unified Psychological and Social Behavior Understanding](https://arxiv.org/abs/2510.04899v2)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 Main Conference</p></details> |
-| **[Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge](https://arxiv.org/abs/2602.11340v1)** | 2026-02-11 |  |
-| **[TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://arxiv.org/abs/2509.14671v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. 26 pages, 11 figures</p></details> |
-| **[Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222v3)** | 2026-02-10 |  |
-| **[Beyond Transcripts: A Renewed Perspective on Audio Chaptering](https://arxiv.org/abs/2602.08979v1)** | 2026-02-09 |  |
-| **[AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.08868v1)** | 2026-02-09 | Preprint |
 
 ## Video Foundation Model
 | **Title** | **Date** | **Comment** |
